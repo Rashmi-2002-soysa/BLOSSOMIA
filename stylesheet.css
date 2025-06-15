@@ -632,6 +632,8 @@ header .icons #menu-bars{
   border-top: 1px solid rgba(0,0,0,0.1);
 }
 
+
+
 @media (max-width:991px){
     html{
         font-size: 55%;
@@ -788,10 +790,4 @@ header .icons #menu-bars{
     padding: .7rem 2.5rem;
   }
 }
-
-
-
-
-
-
 
